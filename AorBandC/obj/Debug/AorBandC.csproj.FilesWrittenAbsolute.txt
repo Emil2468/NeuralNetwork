@@ -1,0 +1,13 @@
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/AorBandC/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/AorBandC/bin/Debug/Matrices.dll
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/AorBandC/bin/Debug/Matrices.dll.mdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/AorBandC/bin/Debug/NeuralNetwork.dll
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/AorBandC/bin/Debug/NeuralNetwork.dll.mdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/AorBandC/bin/Debug/AorBandC.exe.mdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/AorBandC/bin/Debug/AorBandC.exe
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/AorBandC/obj/Debug/AorBandC.exe
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/AorBandC/obj/Debug/AorBandC.exe.mdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/AorBandC/bin/Debug/AorBandC.pdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/AorBandC/obj/Debug/AorBandC.pdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/AorBandC/bin/Debug/Matrices.pdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/AorBandC/bin/Debug/NeuralNetwork.pdb

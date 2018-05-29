@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{FC59096B-CDA3-44C0-AF85-073E8F284A10}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Documents/2048-master/2048.cs">
+    <Files>
+      <File FileName="Matrices/Matrix.cs" Line="1" Column="1" />
+      <File FileName="NeuralNetwork/NeuralNetwork.cs" Line="68" Column="39" />
+      <File FileName="../../../../Documents/2048-master/2048.cs" Line="58" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.2048 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MNIST PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

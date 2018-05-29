@@ -1,0 +1,16 @@
+/home/emil/CloudStation/Koder/CSharp/Matrices/Matrices/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/emil/CloudStation/Koder/CSharp/Matrices/Matrices/bin/Debug/Matrices.dll.mdb
+/home/emil/CloudStation/Koder/CSharp/Matrices/Matrices/bin/Debug/Matrices.dll
+/home/emil/CloudStation/Koder/CSharp/Matrices/Matrices/obj/Debug/Matrices.dll
+/home/emil/CloudStation/Koder/CSharp/Matrices/Matrices/obj/Debug/Matrices.dll.mdb
+/home/emil/CloudStation/Koder/CSharp/Matrices/Matrices/bin/Debug/Matrices.mdb
+/home/emil/CloudStation/Koder/CSharp/Matrices/Matrices/bin/Debug/Matrices
+/home/emil/CloudStation/Koder/CSharp/Matrices/Matrices/obj/Debug/Matrices
+/home/emil/CloudStation/Koder/CSharp/Matrices/Matrices/obj/Debug/Matrices.mdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/Matrices/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/Matrices/bin/Debug/Matrices.dll.mdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/Matrices/bin/Debug/Matrices.dll
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/Matrices/obj/Debug/Matrices.dll
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/Matrices/obj/Debug/Matrices.dll.mdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/Matrices/bin/Debug/Matrices.pdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/Matrices/obj/Debug/Matrices.pdb

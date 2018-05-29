@@ -1,0 +1,11 @@
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/MNIST/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/MNIST/bin/Debug/Matrices.dll
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/MNIST/bin/Debug/Matrices.dll.mdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/MNIST/bin/Debug/Matrices.pdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/MNIST/bin/Debug/NeuralNetwork.dll
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/MNIST/bin/Debug/NeuralNetwork.dll.mdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/MNIST/bin/Debug/NeuralNetwork.pdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/MNIST/bin/Debug/MNIST.pdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/MNIST/bin/Debug/MNIST.exe
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/MNIST/obj/Debug/MNIST.exe
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/MNIST/obj/Debug/MNIST.pdb

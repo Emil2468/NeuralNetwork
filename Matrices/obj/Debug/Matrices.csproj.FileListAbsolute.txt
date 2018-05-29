@@ -1,0 +1,6 @@
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/Matrices/bin/Debug/Matrices.dll
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/Matrices/bin/Debug/Matrices.pdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/Matrices/obj/Debug/Matrices.csprojResolveAssemblyReference.cache
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/Matrices/obj/Debug/Matrices.csproj.CoreCompileInputs.cache
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/Matrices/obj/Debug/Matrices.dll
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/Matrices/obj/Debug/Matrices.pdb

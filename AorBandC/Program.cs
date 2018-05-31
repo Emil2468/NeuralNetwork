@@ -13,7 +13,7 @@ namespace AorBandC
         {   
             nn = new NeuralNetwork(new int[]{3, 4, 5, 4, 1}, 0.2f);
 
-            nn = NeuralNetwork.load("Test");
+            nn = NeuralNetwork.Load("Test");
             trainingData = new ISupervisedData[8];
             //Output = (A or B) and c
             trainingData[0] = new SupervisedData(new Matrix(new float[,]{{0},{0}, {0}}), new Matrix(new float[,]{{0}}));
@@ -26,7 +26,7 @@ namespace AorBandC
             trainingData[7] = new SupervisedData(new Matrix(new float[,]{{1},{1}, {1}}), new Matrix(new float[,]{{1}}));
 
             nn.Train(trainingData, 100000);
-            nn.save("Test");
+            nn.Save("Test");
             for (int i = 0; i < trainingData.Length; i++)
             {
                 Console.Write("Input = \n" + trainingData[i].GetInput());

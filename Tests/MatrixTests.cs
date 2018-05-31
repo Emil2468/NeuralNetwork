@@ -62,7 +62,7 @@ namespace Tests {
         Matrix d = new Matrix(1,2);
 
         Assert.AreEqual(true, a + b == c);
-        Assert.Throws<ArgumentException>(() => (d = a + d));
+        Assert.Throws<ArgumentException>(() => d = a + d);
     }
 
     [Test]
@@ -73,7 +73,7 @@ namespace Tests {
         Matrix d = new Matrix(1,2);
 
         Assert.AreEqual(true, a - b == c);
-        Assert.Throws<ArgumentException>(() => (d = a + d));
+        Assert.Throws<ArgumentException>(() => d = a + d);
     }
 
     [Test]

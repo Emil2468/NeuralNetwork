@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{FC59096B-CDA3-44C0-AF85-073E8F284A10}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Documents/2048-master/2048.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Matrices/Matrix.cs">
     <Files>
-      <File FileName="Matrices/Matrix.cs" Line="1" Column="1" />
-      <File FileName="NeuralNetwork/NeuralNetwork.cs" Line="68" Column="39" />
-      <File FileName="../../../../Documents/2048-master/2048.cs" Line="58" Column="40" />
+      <File FileName="Matrices/Matrix.cs" Line="8" Column="17" />
+      <File FileName="NeuralNetwork/NeuralNetwork.cs" Line="60" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

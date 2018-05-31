@@ -67,8 +67,8 @@ namespace Tests
         [Test]
         public void LoadTest() {
             NeuralNetwork network1 = new NeuralNetwork(new int[]{3,40, 30, 3});
-            network1.save("LoadTest");
-            NeuralNetwork network2 = NeuralNetwork.load("LoadTest");
+            network1.Save("LoadTest");
+            NeuralNetwork network2 = NeuralNetwork.Load("LoadTest");
             Matrix input = new Matrix(3,1);
             input.Randomize(-1,1);
             Console.WriteLine("network1: \n" + network1.FeedForward(input));

@@ -1,0 +1,12 @@
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/XorNetwork/bin/Debug/XorNetwork.exe
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/XorNetwork/bin/Debug/XorNetwork.pdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/XorNetwork/bin/Debug/Matrices.dll
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/XorNetwork/bin/Debug/NeuralNetwork.dll
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/XorNetwork/bin/Debug/Matrices.pdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/XorNetwork/bin/Debug/Matrices.dll.mdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/XorNetwork/bin/Debug/NeuralNetwork.pdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/XorNetwork/bin/Debug/NeuralNetwork.dll.mdb
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/XorNetwork/obj/Debug/XorNetwork.csprojResolveAssemblyReference.cache
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/XorNetwork/obj/Debug/XorNetwork.csproj.CoreCompileInputs.cache
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/XorNetwork/obj/Debug/XorNetwork.exe
+/home/emil/CloudStation/Koder/CSharp/NeuralNetwork/XorNetwork/obj/Debug/XorNetwork.pdb

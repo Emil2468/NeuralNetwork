@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+//Conversion code found at: https://jamesmccaffrey.wordpress.com/2013/11/23/reading-the-mnist-data-set-with-c/
+using System;
 using Matrices;
 using AI;
 using System.IO;
